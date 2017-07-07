@@ -1,0 +1,9 @@
+x = 10
+if x = 10
+y = 7
+endif
+x = 3
+if x != 10
+y = 5
+endif
+end

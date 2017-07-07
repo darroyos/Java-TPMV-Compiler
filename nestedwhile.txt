@@ -1,0 +1,15 @@
+x = 5
+r = 0
+while 0 < x
+y = x
+s = 1
+while 0 < y
+s = s * y
+y = y - 1
+endwhile
+write s
+r = r + s
+x = x - 1
+endwhile
+return
+end

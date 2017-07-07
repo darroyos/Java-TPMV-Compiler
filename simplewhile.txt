@@ -1,0 +1,9 @@
+x = 5
+r = 1
+while 0 < x
+r = r * x
+x = x - 1
+endwhile
+write r
+return
+end
